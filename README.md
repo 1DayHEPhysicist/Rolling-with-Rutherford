@@ -1,14 +1,11 @@
 # 一日高能物理 Rolling with Rutherford
 ---
 ## Table of Contents
-- [# 一日高能物理 Rolling with Rutherford](#h1-id一日高能物理-rolling-with-rutherford-313一日高能物理-rolling-with-rutherfordh1)
-- [Table of Contents](#table-of-contents)
-- [- Contact](#ullicontactliul)
-  - [Prerequisite](#prerequisite)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [Issues](#issues)
-  - [Contact](#contact)
+- [Prerequisite](#prerequisite)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Issues](#issues)
+- [Contact](#contact)
 ---
 ### Prerequisite
 - ROOT 
