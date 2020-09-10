@@ -86,17 +86,17 @@
 ---
 ### Issues
 若你遇到任何問題，你可以在Issues的分頁裡創建一個新的Issue，並請盡量清楚描述下列3點:  
-a.你遇到的問題 
-b.程式或指令執行時在終端機顯示的錯誤內容 
-c.你在網路上找到的解決方法，或是在網路上你認為可能的解決方法
+a.你遇到的問題  
+b.程式或指令執行時在終端機顯示的錯誤內容  
+c.你在網路上找到的解決方法，或是在網路上你認為可能的解決方法  
 
 ---
 ### Contact
-Email: ncu.onedayhep@gmail.com
+Email: ncu.onedayhep@gmail.com  
 Facebook: https://www.facebook.com/1DayHEPhysicist
 
 --- 
-程式撰寫: 鄭皓仁
-README 文件編修: 鄭皓仁
+程式撰寫: 鄭皓仁  
+README 文件編修: 鄭皓仁  
 
 Latest update on 2020/09/10
